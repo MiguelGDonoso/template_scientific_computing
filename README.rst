@@ -4,12 +4,7 @@ Project Title
 
 Simple overview of use/purpose.
 
-.. math::
-
-   \frac{ \sum_{t=0}^{N}f(t,k) }{N}
-Or if you want to write inline you can use this:
-
-:math:`\frac{ \sum_{t=0}^{N}f(t,k) }{N}`
+![a^N = \binom{a}{b}](https://render.githubusercontent.com/render/math?math=a%5EN%20%3D%20%5Cbinom%7Ba%7D%7Bb%7D)
 
 Description
 ===========
