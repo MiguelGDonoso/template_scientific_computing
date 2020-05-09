@@ -69,7 +69,7 @@ License
 This project is licensed under the BSD-2-Clause License - see the `LICENSE file`_
 for details.
 
-.. _LICENSE file: https://github.com/MiguelGDonoso/template_scientific_computing/LICENSE
+.. _LICENSE file: https://github.com/MiguelGDonoso/template_scientific_computing/blob/master/LICENSE
 
 
 ***************
