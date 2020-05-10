@@ -41,7 +41,9 @@ Setup
 Requirements
 ------------
 
-Prerequisites, dependencies, etc.
+Prerequisites, dependencies, etc. - see the `requirements file`_ for details.
+
+.. _`requirements file`: https://github.com/MiguelGDonoso/template_scientific_computing/blob/master/requirements.txt
 
 
 Install
@@ -53,7 +55,7 @@ How to get the project running, e.g. use the package manager `pip`_ to install {
 
 .. code-block:: bash
 
-   pip install foobar
+   pip install project_name
 
 
 *****
@@ -74,7 +76,7 @@ Include examples, e.g.
 Support / Contributing
 **********************
 
-If in need of help, wanting to report an issue or wondering how to contribute please contact miguelgdonoso@gmail.com
+To request support, report an issue, or contribute, please contact miguelgdonoso@gmail.com.
 
 
 *******
@@ -122,9 +124,9 @@ This project adheres to `Semantic Versioning`_, and the format is based on `Keep
 
 major.minor.patch (yyyy-mm-dd)
 ------------------------------
-   * ``Added`` for new features.
-   * ``Changed`` for changes in existing functionality.
-   * ``Deprecated`` for soon-to-be removed features.
-   * ``Removed`` for now removed features.
-   * ``Fixed`` for any bug fixes.
-   * ``Security`` in case of vulnerabilities.
+* ``Added`` for new features.
+* ``Changed`` for changes in existing functionality.
+* ``Deprecated`` for soon-to-be removed features.
+* ``Removed`` for now removed features.
+* ``Fixed`` for any bug fixes.
+* ``Security`` in case of vulnerabilities.
