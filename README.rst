@@ -3,25 +3,17 @@ Self-explanatory Project Name
 #############################
 
 
-Potentially a subtitle
-++++++++++++++++++++++
-
+.. Badges
 
 |status| |version| |license|
 
-
-.. Badges
-
-.. Project Status
 .. |status| image:: https://www.repostatus.org/badges/latest/wip.svg
    :alt: Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.
    :target: https://www.repostatus.org/#wip
 
-.. Version
 .. |version| image:: https://img.shields.io/github/v/tag/MiguelGDonoso/template_scientific_computing?include_prereleases
    :target: https://github.com/MiguelGDonoso/template_scientific_computing/tags
 
-.. License
 .. |license| image:: https://img.shields.io/github/license/MiguelGDonoso/template_scientific_computing
    :alt: BSD-2-Clause
    :target: https://github.com/MiguelGDonoso/template_scientific_computing/blob/master/LICENSE
@@ -45,13 +37,17 @@ Context, background, purpose, use, features. Add visuals.
 Setup
 *****
 
+
 Requirements
 ------------
+
+Prerequisites, dependencies, etc.
 
 
 Install
 -------
-Use the package manager `pip`_ to install {project_name}.
+
+How to get the project running, e.g. use the package manager `pip`_ to install {project_name}.
 
 .. _pip: https://pip.pypa.io/en/stable/
 
@@ -64,10 +60,7 @@ Use the package manager `pip`_ to install {project_name}.
 Usage
 *****
 
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-* How to run the program
-* Step-by-step bullets
-* Screenshots, features
+Include examples, e.g.
 
 .. code-block:: python
 
@@ -77,26 +70,11 @@ Use examples liberally, and show the expected output if you can. It's helpful to
    project_name.returnThat() # returns That
 
 
-*******************************
-Contributing / Reporting issues
-*******************************
-
-Any advise for common problems or issues.
-
-
 **********************
 Support / Contributing
 **********************
 
-Any advise for common problems or issues.
-
-
-***************
-Version History
-***************
-
-* 0.1
-   - Initial release
+If in need of help, wanting to report an issue or wondering how to contribute please contact miguelgdonoso@gmail.com
 
 
 *******
@@ -105,19 +83,48 @@ License
 
 This project is licensed under the `BSD-2-Clause License`_ - see the `LICENSE file`_ for details.
 
-.. _BSD-2-Clause License: https://opensource.org/licenses/BSD-2-Clause
-.. _LICENSE file: https://github.com/MiguelGDonoso/template_scientific_computing/blob/master/LICENSE
+.. _`BSD-2-Clause License`: https://opensource.org/licenses/BSD-2-Clause
+.. _`LICENSE file`: https://github.com/MiguelGDonoso/template_scientific_computing/blob/master/LICENSE
 
 
-************
-Contributors
-************
-
-* Author - Miguel Gómez Donoso - `MiguelGDonoso`_
-
-.. _MiguelGDonoso: https://github.com/MiguelGDonoso
+*******
+Sources 
+*******
 
 
-***************
-Acknowledgments
-***************
+Contributors 
+------------
+
+* Author - Miguel Gómez Donoso - `MiguelGDonoso`_ - miguelgdonoso@gmail.com
+
+.. _`MiguelGDonoso`: https://github.com/MiguelGDonoso
+
+
+Acknowledgements
+----------------
+
+
+References
+----------
+
+
+*********
+Changelog
+*********
+
+All notable changes to this project will be documented in this section.
+
+This project adheres to `Semantic Versioning`_, and the format is based on `Keep a Changelog`_.
+
+.. _`Semantic Versioning`: https://semver.org/spec/v2.0.0.html
+.. _`Keep a Changelog`: https://keepachangelog.com/en/1.0.0/
+
+
+major.minor.patch (yyyy-mm-dd)
+------------------------------
+   * ``Added`` for new features.
+   * ``Changed`` for changes in existing functionality.
+   * ``Deprecated`` for soon-to-be removed features.
+   * ``Removed`` for now removed features.
+   * ``Fixed`` for any bug fixes.
+   * ``Security`` in case of vulnerabilities.
