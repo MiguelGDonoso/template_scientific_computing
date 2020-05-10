@@ -1,50 +1,60 @@
-#############
-Project Title
-#############
+#############################
+Self-explanatory Project Name |status| |version| |license|
+#############################
 
 
-.. image:: https://www.repostatus.org/badges/latest/active.svg
-   :alt: Project Status: Active – The project has reached a stable, usable state and is being actively developed.
-   :target: https://www.repostatus.org/#active
-
-.. image:: https://www.repostatus.org/badges//github/license/MiguelGDOnoso/template_scientific_computing.svg
-   :alt: Project Status: Active – The project has reached a stable, usable state and is being actively developed.
-   :target: https://www.repostatus.org/#active
+A subtitle
+++++++++++
 
 
-Choose a self-explaining name for your project. Simple overview of use/purpose.
+.. Badges
+
+.. Project Status
+.. |status| image:: https://www.repostatus.org/badges/latest/wip.svg
+   :alt: Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.
+   :target: https://www.repostatus.org/#wip
+
+.. Version
+.. |version| image:: https://img.shields.io/github/v/tag/MiguelGDonoso/template_scientific_computing?include_prereleases
+   :target: https://github.com/MiguelGDonoso/template_scientific_computing/tags
+
+.. License
+.. |license| image:: https://img.shields.io/github/license/MiguelGDonoso/template_scientific_computing
+   :alt: BSD-2-Clause
+   :target: https://github.com/MiguelGDonoso/template_scientific_computing/blob/master/LICENSE
+
+
+Short overview.
+
+
+.. contents::
+   :local:
+   :depth: 2
 
 
 ***********
 Description
 ***********
 
-An in-depth paragraph about your project and overview of use. Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors. Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Context, background, purpose, use, features. Add visuals.
 
 
-Features
-========
+*****
+Setup
+*****
+
+Requirements
+------------
 
 
-Background
-========
+Install
+-------
+Use the package manager `pip`_ to install {project_name}.
 
+.. _pip: https://pip.pypa.io/en/stable/
 
-************
-Installation
-************
+.. code-block:: bash
 
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-::
-
-   bash
    pip install foobar
 
 
@@ -59,11 +69,10 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 
 .. code-block:: python
 
-   import foobar
+   import project_name
 
-   foobar.pluralize('word') # returns 'words'
-   foobar.pluralize('goose') # returns 'geese'
-   foobar.singularize('phenomena') # returns 'phenomenon'
+   project_name.doThis() # does This
+   project_name.returnThat() # returns That
 
 
 *******************************
@@ -110,5 +119,3 @@ Contributors
 ***************
 Acknowledgments
 ***************
-
-* Inspiration, code snippets, etc.
