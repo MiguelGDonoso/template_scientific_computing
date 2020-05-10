@@ -1,10 +1,13 @@
 #############################
-Self-explanatory Project Name |status| |version| |license|
+Self-explanatory Project Name 
 #############################
 
 
-A subtitle
-++++++++++
+Potentially a subtitle
+++++++++++++++++++++++
+
+
+|status| |version| |license|
 
 
 .. Badges
@@ -27,9 +30,8 @@ A subtitle
 Short overview.
 
 
-.. contents::
-   :local:
-   :depth: 2
+.. contents:: **Table of contents**
+   :depth: 1
 
 
 ***********
