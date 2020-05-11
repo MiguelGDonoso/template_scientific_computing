@@ -41,7 +41,9 @@ Setup
 Requirements
 ------------
 
-Prerequisites, dependencies, etc. - see the `requirements file`_ for details.
+Prerequisites, dependencies, etc.
+
+   See the `requirements file`_ for details.
 
 .. _`requirements file`: https://github.com/MiguelGDonoso/template_scientific_computing/blob/master/requirements.txt
 
@@ -83,7 +85,9 @@ To request support, report an issue, or contribute, please contact miguelgdonoso
 License
 *******
 
-This project is licensed under the `BSD-2-Clause License`_ - see the `LICENSE file`_ for details.
+This project is licensed under the `BSD-2-Clause License`_.
+
+    See the `LICENSE file`_ for details.
 
 .. _`BSD-2-Clause License`: https://opensource.org/licenses/BSD-2-Clause
 .. _`LICENSE file`: https://github.com/MiguelGDonoso/template_scientific_computing/blob/master/LICENSE
