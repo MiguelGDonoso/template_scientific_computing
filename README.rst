@@ -109,6 +109,18 @@ Contributors
 Acknowledgements
 ----------------
 
+* `Good Enough Practices for Scientific Computing`_
+* `Make a Readme`_
+* `Semantic Versioning`_
+* `Keep a Changelog`_
+* `Shields`_
+
+.. _`Good Enough Practices for Scientific Computing`: https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/
+.. _`Make a Readme`: https://www.makeareadme.com/
+.. _`Semantic Versioning`: https://semver.org/spec/v2.0.0.html
+.. _`Keep a Changelog`: https://keepachangelog.com/en/1.0.0/
+.. _`Shields`: https://shields.io/
+
 
 References
 ----------
@@ -122,12 +134,10 @@ All notable changes to this project will be documented in this section.
 
 This project adheres to `Semantic Versioning`_, and the format is based on `Keep a Changelog`_.
 
-.. _`Semantic Versioning`: https://semver.org/spec/v2.0.0.html
-.. _`Keep a Changelog`: https://keepachangelog.com/en/1.0.0/
-
 
 major.minor.patch (yyyy-mm-dd)
 ------------------------------
+
 * ``Added`` for new features.
 * ``Changed`` for changes in existing functionality.
 * ``Deprecated`` for soon-to-be removed features.
